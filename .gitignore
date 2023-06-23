@@ -1,0 +1,5 @@
+node_modules/
+.vscodde
+.idea
+.env
+.env.local
